@@ -1,202 +1,177 @@
 [
     {
+      "id": "b621b761-3d47-4d83-83f2-3d78a6de2a01",
       "titulo": "Cadeira de Escritório Ergonômica",
       "tipo_do_produto": "Móveis",
-      "preco": 299.99,
       "dia_da_publicacao": "2024-10-25",
-      "descricao": "Cadeira ergonômica com ajuste de altura e apoio para lombar.",
       "anunciante": "Móveis Conforto"
     },
     {
+      "id": "e2234f1f-7c2f-4973-8fb9-1847e7d3b921",
       "titulo": "Notebook Gamer XYZ",
       "tipo_do_produto": "Eletrônicos",
-      "preco": 4500.00,
       "dia_da_publicacao": "2024-10-24",
-      "descricao": "Notebook de alta performance com placa de vídeo dedicada.",
       "anunciante": "Tech Store"
     },
     {
+      "id": "b3c09d32-4e90-40e7-9db4-9a5f5b2b52ef",
       "titulo": "Cafeteira Automática",
       "tipo_do_produto": "Eletrodomésticos",
-      "preco": 249.90,
       "dia_da_publicacao": "2024-10-23",
-      "descricao": "Cafeteira automática com timer e diferentes intensidades.",
       "anunciante": "Casa do Café"
     },
     {
+      "id": "5e07dfe7-9e4a-4f9c-8e8d-518f2924cd7c",
       "titulo": "Bicicleta Aro 26",
       "tipo_do_produto": "Esportes",
-      "preco": 599.99,
       "dia_da_publicacao": "2024-10-22",
-      "descricao": "Bicicleta robusta, ideal para trilhas e ciclismo urbano.",
       "anunciante": "Bike World"
     },
     {
+      "id": "1b9d3797-5dc5-499e-8006-df6ad4e61b63",
       "titulo": "Relógio Inteligente Z500",
       "tipo_do_produto": "Acessórios",
-      "preco": 349.90,
       "dia_da_publicacao": "2024-10-21",
-      "descricao": "Relógio com monitor de atividades e notificações de apps.",
       "anunciante": "Tech Smart"
     },
     {
+      "id": "7f6b9e13-6716-4d48-b2b3-8b9ef4e8dfe7",
       "titulo": "Conjunto de Panelas Antiaderentes",
       "tipo_do_produto": "Cozinha",
-      "preco": 199.90,
       "dia_da_publicacao": "2024-10-20",
-      "descricao": "Conjunto com 5 peças antiaderentes, duráveis e fáceis de limpar.",
       "anunciante": "Cozinha & Lar"
     },
     {
+      "id": "94b6dc60-31b2-48d8-823d-3b4b05660be2",
       "titulo": "Livro de Romance Clássico",
       "tipo_do_produto": "Livros",
-      "preco": 29.90,
       "dia_da_publicacao": "2024-10-19",
-      "descricao": "Uma emocionante história de amor que transcende gerações.",
       "anunciante": "Livraria Central"
     },
     {
+      "id": "3a1c3a9c-7438-4c78-a5d6-e00b1eb1a36f",
       "titulo": "Smartphone ZX10",
       "tipo_do_produto": "Eletrônicos",
-      "preco": 1999.00,
       "dia_da_publicacao": "2024-10-18",
-      "descricao": "Smartphone com câmera tripla e tela AMOLED.",
       "anunciante": "Tech Store"
     },
     {
+      "id": "d9e2729d-7c1b-4f1a-88de-6231e57b3295",
       "titulo": "Mesa de Jantar Redonda",
       "tipo_do_produto": "Móveis",
-      "preco": 599.99,
       "dia_da_publicacao": "2024-10-17",
-      "descricao": "Mesa de jantar redonda em madeira para 4 pessoas.",
       "anunciante": "Móveis Conforto"
     },
     {
+      "id": "a5c6a712-e167-44a3-bbd9-46949f9f26be",
       "titulo": "Tênis de Corrida UltraLight",
       "tipo_do_produto": "Calçados",
-      "preco": 159.90,
       "dia_da_publicacao": "2024-10-16",
-      "descricao": "Tênis leve e confortável para corridas de longa distância.",
       "anunciante": "Esportes & Cia"
     },
     {
+      "id": "23ab2cf2-5e4d-42c6-b22f-68f36559d43e",
       "titulo": "Fone de Ouvido Bluetooth",
       "tipo_do_produto": "Eletrônicos",
-      "preco": 79.99,
       "dia_da_publicacao": "2024-10-15",
-      "descricao": "Fone de ouvido sem fio com ótima qualidade de som.",
       "anunciante": "Tech Store"
     },
     {
+      "id": "5be47f6b-e4d2-4ec4-b5fd-92f17b36234d",
       "titulo": "Cama Queen Size",
       "tipo_do_produto": "Móveis",
-      "preco": 899.99,
       "dia_da_publicacao": "2024-10-14",
-      "descricao": "Cama queen size com estrutura de madeira maciça.",
       "anunciante": "Móveis Conforto"
     },
     {
+      "id": "ed6d56bf-3944-4b6e-8dd7-bcbb56402e3b",
       "titulo": "Camiseta Esportiva",
       "tipo_do_produto": "Roupas",
-      "preco": 39.90,
       "dia_da_publicacao": "2024-10-13",
-      "descricao": "Camiseta leve e respirável, ideal para atividades físicas.",
       "anunciante": "Esportes & Cia"
     },
     {
+      "id": "bd57ac07-60a9-4b70-9bfb-768ebd75f1b7",
       "titulo": "Air Fryer X200",
       "tipo_do_produto": "Eletrodomésticos",
-      "preco": 299.90,
       "dia_da_publicacao": "2024-10-12",
-      "descricao": "Air fryer com controle de temperatura e timer ajustável.",
       "anunciante": "Casa do Café"
     },
     {
+      "id": "7135f3d6-c210-4e9d-88f4-4148cfe90a1f",
       "titulo": "Monitor UltraWide",
       "tipo_do_produto": "Eletrônicos",
-      "preco": 1200.00,
       "dia_da_publicacao": "2024-10-11",
-      "descricao": "Monitor ultrawide de 34 polegadas com resolução QHD.",
       "anunciante": "Tech Store"
     },
     {
+      "id": "efb9c849-bfd0-41c3-8417-2bfe0b1e8a62",
       "titulo": "Geladeira Frost Free",
       "tipo_do_produto": "Eletrodomésticos",
-      "preco": 2999.99,
       "dia_da_publicacao": "2024-10-10",
-      "descricao": "Geladeira com sistema frost free e compartimento extra frio.",
       "anunciante": "EletroLar"
     },
     {
+      "id": "d34c8d56-c4b9-4d16-b631-93db7310b64a",
       "titulo": "Bolsa de Couro",
       "tipo_do_produto": "Acessórios",
-      "preco": 199.90,
       "dia_da_publicacao": "2024-10-09",
-      "descricao": "Bolsa de couro genuíno com alça ajustável.",
       "anunciante": "Fashion Store"
     },
     {
+      "id": "fe2dfd80-71f8-48ef-98f6-06f5b1455e7f",
       "titulo": "Mesa de Centro",
       "tipo_do_produto": "Móveis",
-      "preco": 249.99,
       "dia_da_publicacao": "2024-10-08",
-      "descricao": "Mesa de centro em madeira de demolição.",
       "anunciante": "Móveis Conforto"
     },
     {
+      "id": "1d5a6b3f-f7c1-4a5a-9a26-82db2bf1bf21",
       "titulo": "Headset Gamer",
       "tipo_do_produto": "Eletrônicos",
-      "preco": 399.90,
       "dia_da_publicacao": "2024-10-07",
-      "descricao": "Headset com som surround e microfone embutido.",
       "anunciante": "Tech Store"
     },
     {
+      "id": "fc369d0e-831e-420d-bc35-913bf368cbf3",
       "titulo": "Tênis Casual",
       "tipo_do_produto": "Calçados",
-      "preco": 89.90,
       "dia_da_publicacao": "2024-10-06",
-      "descricao": "Tênis casual em couro sintético, ideal para o dia a dia.",
       "anunciante": "Fashion Store"
     },
     {
+      "id": "d9e569a5-e7a6-45b9-b06e-7c36e83412ef",
       "titulo": "Fogão 4 Bocas",
       "tipo_do_produto": "Eletrodomésticos",
-      "preco": 899.99,
       "dia_da_publicacao": "2024-10-05",
-      "descricao": "Fogão 4 bocas com acendimento automático.",
       "anunciante": "EletroLar"
     },
     {
+      "id": "6c7b5611-6a78-4e49-bf2f-4a521fe3d2c8",
       "titulo": "Livro de Culinária Internacional",
       "tipo_do_produto": "Livros",
-      "preco": 49.90,
       "dia_da_publicacao": "2024-10-04",
-      "descricao": "Receitas de diferentes culturas em um único volume.",
       "anunciante": "Livraria Central"
     },
     {
+      "id": "be752edf-24a8-4a39-b4a7-198d8b8c84a5",
       "titulo": "Bolsa de Viagem",
       "tipo_do_produto": "Acessórios",
-      "preco": 149.90,
       "dia_da_publicacao": "2024-10-03",
-      "descricao": "Bolsa de viagem espaçosa com diversos compartimentos.",
       "anunciante": "Fashion Store"
     },
     {
-      "titulo": "Cortina Blackout",
-      "tipo_do_produto": "Decoração",
-      "preco": 99.90,
+      "id": "cd6ad32e-82e7-42eb-a8fb-e1b0179464f8",
+      "titulo": "Jogo de Ferramentas Completo",
+      "tipo_do_produto": "Ferramentas",
       "dia_da_publicacao": "2024-10-02",
-      "descricao": "Cortina blackout, ideal para bloquear luz em ambientes.",
-      "anunciante": "DecoraLar"
+      "anunciante": "Casa & Obra"
     },
     {
-      "titulo": "Caneca Personalizada",
-      "tipo_do_produto": "Presentes",
-      "preco": 24.90,
+      "id": "1e9c6bc1-9ad2-43a4-8e05-0cf9e6d6b87a",
+      "titulo": "Jogo de Tabuleiro Clássico",
+      "tipo_do_produto": "Brinquedos",
       "dia_da_publicacao": "2024-10-01",
-      "descricao": "Caneca personalizada com nome e ilustrações.",
       "anunciante": "Presentes Criativos"
     }
   ]
